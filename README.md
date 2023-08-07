@@ -5,4 +5,4 @@
 - 💞️ I'm looking for an internship in a technology company as a front-end or back-end developer
 - 📫 How to reach me 
      - Email: gabrieldesignerce@gmail.com 
-     - LinkedIn: https://www.linkedin.com/in/myguelangello
+     - LinkedIn: shortly...
