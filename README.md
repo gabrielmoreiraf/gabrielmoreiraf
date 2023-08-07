@@ -11,7 +11,7 @@
 
 <p align="left" style="background:yellow">
      <a href="https://instagram.com/gabrieldesigner_" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-_myguel-05122A?style=for-the-badge&logo=instagram" alt="instagram"/>
+      <img align="center" src="[https://img.shields.io/badge/-_myguel-05122A?style=for-the-badge](https://img.shields.io/badge/-gabrieldesigner_-05122A?style=for-the-badge)&logo=instagram" alt="instagram"/>
      </a> 
       <img align="center" src="https://img.shields.io/badge/-gabrieldesignerce@gmail.com-05122A?style=for-the-badge&logo=gmail" alt="gmail" />
 </p>
