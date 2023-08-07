@@ -6,7 +6,6 @@
 - 📫 How to reach me 
      - Email: gabrieldesignerce@gmail.com 
      - LinkedIn: shortly...
-     - 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
