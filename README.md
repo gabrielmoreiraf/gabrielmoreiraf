@@ -5,10 +5,12 @@
 - 💞️ I'm looking for an internship in a technology company as a front-end or back-end developer
 - 📫 How to reach me 
      - Email: gabrieldesignerce@gmail.com 
-     - LinkedIn: shortly...
+     - LinkedIn: https://www.linkedin.com/in/gabriel-moreira-43b637250/
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
+     <a href="https://www.linkedin.com/in/gabrielmoreirace/" target="_blank">
+       <img align="center" src="https://img.shields.io/badge/-gabrielmoreira-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
      <a href="https://instagram.com/gabrieldesigner_" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-gabrieldesigner_-05122A?style=for-the-badge)&logo=instagram" alt="instagram"/>
      </a> 
