@@ -6,17 +6,6 @@
 - 📫 How to reach me 
      - Email: gabrieldesignerce@gmail.com 
      - LinkedIn: https://www.linkedin.com/in/gabrielmoreirace/
-## 👨🏽‍🦲 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-     <a href="https://www.linkedin.com/in/gabrielmoreirace/" target="_blank">
-       <img align="center" src="https://img.shields.io/badge/-gabrielmoreira-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
-     <a href="https://instagram.com/gabrieldesigner_" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-gabrieldesigner_-05122A?style=for-the-badge)&logo=instagram" alt="instagram"/>
-     </a> 
-      <img align="center" src="https://img.shields.io/badge/-gabrieldesignerce@gmail.com-05122A?style=for-the-badge&logo=gmail" alt="gmail" />
-</p>
-
 <!---
 gabrielmoreiraf/gabrielmoreiraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
