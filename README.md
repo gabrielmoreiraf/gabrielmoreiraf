@@ -85,15 +85,3 @@ Uso agentes de código no dia a dia, mas quem decide sou eu:
 1. **Spec antes do código** — o que vai ser feito e por quê fica escrito antes de qualquer linha
 2. **TDD e revisão de código** — o que a IA entrega passa por testes e revisão
 3. **CI como porteiro** — nada chega a homologação ou produção sem passar no pipeline e sem a minha aprovação
-
----
-
-### 📊 Atividade
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gabrielmoreiraf&theme=github-dark-blue&hide_border=true&locale=pt_br" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmoreiraf&theme=github-compact&hide_border=true" alt="Gráfico de atividade" />
-</p>
